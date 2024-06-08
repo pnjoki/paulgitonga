@@ -1,5 +1,5 @@
 # ML Engineer
-###Techincal Skills  AWS, Python, R, Redis, Looker, GCP, Azure, PowerBI, QGIS, ArcGIS
+### Techincal Skills  AWS, Python, R, Redis, Looker, GCP, Azure, PowerBI, QGIS, ArcGIS
 
 ### Education
 Data Science- Moringa School
@@ -20,5 +20,5 @@ Duties and Responsibilities
 •	Creating Customer 360 and Single view customer platform
 •	Maintain the database
 
-###Projects
+### Projects
 
