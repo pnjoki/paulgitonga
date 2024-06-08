@@ -1,15 +1,6 @@
 title: Paul Gitonga
 logo: /DSCF4807.JPG
-<<<<<<< HEAD
-description: text below image
-show_downloads: false
-<<<<<<< HEAD
-theme: jekyll-theme-midnight
-=======
-theme: jekyll-theme-slate
->>>>>>> b4bc962ea23516299bc13785b2370513758c7543
-=======
 #description: text below image
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-midnight
->>>>>>> 208f00073bb8ad82a8b0b1e003711ff41b75d675
+
