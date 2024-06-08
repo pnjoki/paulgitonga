@@ -33,12 +33,12 @@ _Duties and Responsibilities_
 
 ### Projects
 _Customer 360 Project_
-[visit github](https://github.com/victorazangu/Ramana)
+[github](https://github.com/victorazangu/Ramana)
 The project leveraged technology like CRM, ETL tools for data integration, data warehouses/lakes for storage, BI tools for reporting, and machine learning for model building and predictive analytics. Cloud platforms help scale the implementation
 
 
 Capstone Project 
-[visit github](https://github.com/pnjoki/Pneumonia-Detection)
+[github](https://github.com/pnjoki/Pneumonia-Detection)
 The project aimed to create an AI system for automated pneumonia screening to assist doctors using deep learning and medical image analysis. The CNN model is trained to classify x-ray images and detect visual signs of pneumonia
 
 
