@@ -1,5 +1,5 @@
 # ML Engineer
-###Techincal Skills  AWS, Python, R, Redis, Looker, GCP, Azure, PowerBI
+###Techincal Skills  AWS, Python, R, Redis, Looker, GCP, Azure, PowerBI, QGIS, ArcGIS
 
 ### Education
 Data Science- Moringa School
